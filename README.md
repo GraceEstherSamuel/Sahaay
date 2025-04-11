@@ -45,7 +45,7 @@ Before you begin, ensure you have the following installed:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/boora-aman/civicfix.git
+git clone https://github.com/GraceEstherSamuel/Sahaay.git
 cd civicfix
 ```
 
