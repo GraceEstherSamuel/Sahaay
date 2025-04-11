@@ -1,8 +1,8 @@
-# CivicFix: Community Issue Reporting Platform
+# Sahaay: Community Issue Reporting Platform
 
-CivicFix is a web application that enables citizens to report, track, and collaborate on local infrastructure issues in their communities. The platform connects residents with local authorities through a transparent system for reporting problems, tracking their status, and monitoring resolutions.
+Sahaay is a web application that enables citizens to report, track, and collaborate on local infrastructure issues in their communities. The platform connects residents with local authorities through a transparent system for reporting problems, tracking their status, and monitoring resolutions.
 
-![CivicFix Demo](https://example.com/civicfix-demo.png)
+![Sahaay Demo](https://example.com/civicfix-demo.png)
 
 ## 🚀 Features
 
