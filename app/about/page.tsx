@@ -1,8 +1,8 @@
 import { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "About CivicFix",
-  description: "Learn about the CivicFix platform and our mission to improve communities",
+  title: "About Sahaay",
+  description: "Learn about the Sahaay platform and our mission to improve communities",
 }
 
 export default function AboutPage() {
@@ -19,7 +19,7 @@ export default function AboutPage() {
         <div className="space-y-4">
           <h2 className="text-2xl font-semibold">Our Mission</h2>
           <p>
-            CivicFix was founded with a simple but powerful idea: to give citizens a voice in improving their communities. 
+            Sahaay was founded with a simple but powerful idea: to give citizens a voice in improving their communities. 
             We believe that by creating a transparent and accessible platform for reporting infrastructure issues, 
             we can help bridge the gap between residents and local authorities.
           </p>
@@ -61,7 +61,7 @@ export default function AboutPage() {
         <div className="space-y-4">
           <h2 className="text-2xl font-semibold">Our Team</h2>
           <p>
-            CivicFix is developed by a dedicated team of civic-minded technologists and urban planners who believe in the 
+            Sahaay is developed by a dedicated team of civic-minded technologists and urban planners who believe in the 
             power of technology to improve public services and community engagement.
           </p>
         </div>
